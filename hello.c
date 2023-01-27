@@ -8,3 +8,4 @@ int main()
     printf("Hello world! I'am %s, in my %d's \n", name,age);
     return 0;
 }
+// Adding comments 
