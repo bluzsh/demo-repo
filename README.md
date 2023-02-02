@@ -1,8 +1,7 @@
 # This is Demo repo
-<<<<<<< HEAD
+HEAD
 ## Student
-=======
 test-01
 ## Creating my first branch
 git is just amazing...
->>>>>>> future-readme-review
+future-readme-review
